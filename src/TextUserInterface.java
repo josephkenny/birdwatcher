@@ -1,13 +1,8 @@
 import java.util.Scanner;
 
 public class TextUserInterface {
-    private final Scanner scanner;
-    private final BirdDatabase birdDatabase;
-
-    public TextUserInterface(Scanner scanner, BirdDatabase birdDatabase) {
-        this.scanner = scanner;
-        this.birdDatabase = birdDatabase;
-    }
+    private final Scanner scanner = new Scanner(System.in);
+    private final BirdDatabase birdDatabase = new BirdDatabase();
 
     public void startMenu() {
         boolean quit = false;

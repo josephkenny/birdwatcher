@@ -1,11 +1,6 @@
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        BirdDatabase birdDatabase = new BirdDatabase();
-        TextUserInterface ui = new TextUserInterface(scanner, birdDatabase);
-        ui.startMenu();
+        new TextUserInterface().startMenu();
     }
 }
