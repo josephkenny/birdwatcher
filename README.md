@@ -22,7 +22,7 @@ Choose command:
 [x] Quit
 
 > 1
-Name: Crane
+Name: Stork
 Latin name: Ciconia
 
 Choose command:
@@ -65,7 +65,7 @@ Choose command:
 [x] Quit
 
 > 2
-What bird was observed? Crane
+What bird was observed? Stork
 
 Choose command:
 [1] Add bird
@@ -77,7 +77,7 @@ Choose command:
 > 3
 Crow (Corvus): 1 observation
 Bat (Vespertilio): 0 observations
-Crane (Ciconia): 1 observation
+Stork (Ciconia): 1 observation
 
 Choose command:
 [1] Add bird
@@ -99,4 +99,3 @@ Choose command:
 
 > x
 ```
-
