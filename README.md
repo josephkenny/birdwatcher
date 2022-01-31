@@ -11,17 +11,6 @@ Choose command:
 [x] Quit
 
 > 1
-Name: Bat
-Latin name: Vespertilio
-
-Choose command:
-[1] Add bird
-[2] Add observation
-[3] Print all birds
-[4] Print one bird
-[x] Quit
-
-> 1
 Name: Stork
 Latin name: Ciconia
 
@@ -76,7 +65,6 @@ Choose command:
 
 > 3
 Crow (Corvus): 1 observation
-Bat (Vespertilio): 0 observations
 Stork (Ciconia): 1 observation
 
 Choose command:
